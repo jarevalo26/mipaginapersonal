@@ -373,3 +373,86 @@ footer a:focus {
 @media (prefers-color-scheme: dark) {
   /* Preparado para modo oscuro futuro */
 }
+
+/* -----------------------------------------*/
+/* CSS VIDEO */
+/* Estilos para el contenedor de video */
+.video-container {
+  margin: 25px 0;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 10px;
+  border-left: 4px solid #0066cc;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+}
+
+.video-container h4 {
+  margin-bottom: 20px;
+  color: #2c5530;
+  font-size: 1.3em;
+  text-align: center;
+}
+
+/* Contenedor responsive para YouTube */
+.video-embed {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%; /* Relación de aspecto 16:9 */
+  margin-bottom: 15px;
+  border-radius: 8px;
+  overflow: hidden;
+  border: none; /* Reemplaza frameborder="0" */
+}
+
+.video-embed iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none; /* Esto reemplaza frameborder="0" */
+  border-radius: 8px;
+}
+
+.video-description {
+  font-size: 1em;
+  color: #555;
+  margin-top: 15px;
+  text-align: center;
+  line-height: 1.5;
+  padding: 0 10px;
+}
+
+/* Efectos hover para mejor interactividad */
+.video-embed iframe:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+  transition: box-shadow 0.3s ease;
+}
+
+/* Responsive */
+@media (max-width: 768px) {
+  .video-container {
+    margin: 20px 0;
+    padding: 15px;
+  }
+  
+  .video-container h4 {
+    font-size: 1.2em;
+  }
+}
+
+@media (max-width: 480px) {
+  .video-container {
+    margin: 15px 0;
+    padding: 12px;
+  }
+  
+  .video-container h4 {
+    font-size: 1.1em;
+  }
+  
+  .video-description {
+    font-size: 0.95em;
+  }
+}
