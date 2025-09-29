@@ -456,3 +456,51 @@ footer a:focus {
     font-size: 0.95em;
   }
 }
+
+/* --- FOTO DE PERFIL --- */
+.profile-photo {
+  float: left;
+  margin: 0 2rem 1rem 0;
+  text-align: center;
+}
+
+.profile-photo img {
+  border-radius: 50%;
+  border: 4px solid #0066cc;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.profile-photo figcaption {
+  margin-top: 0.5rem;
+  font-size: 0.9rem;
+  color: #666;
+  font-style: italic;
+}
+
+/* Clearfix para la sección que contiene la foto */
+main section::after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Asegurar que los destacados no se superpongan con la foto */
+.destacados {
+  clear: both;
+  background-color: #f8f9fa;
+  padding: 2rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+  border-left: 4px solid #0066cc;
+}
+
+@media (max-width: 768px) {
+  .profile-photo {
+    float: none;
+    margin: 0 auto 1.5rem;
+    max-width: 250px;
+  }
+}
