@@ -1,0 +1,422 @@
+{
+  "es": [
+    {
+      "id": "home-hero",
+      "title": "Inicio",
+      "category": "Página",
+      "content": "Hola soy John Albeiro Arevalo Desarrollador Web Full Stack especializado en .NET Angular bases de datos",
+      "url": "index.html",
+      "keywords": ["inicio", "home", "desarrollador", "full stack", "angular", "net", "bases de datos"]
+    },
+    {
+      "id": "home-about",
+      "title": "Sobre Mí - Resumen",
+      "category": "Página",
+      "content": "Desarrollador web con experiencia en diseño y desarrollo de aplicaciones empresariales Master Ingeniería Web Universidad Oviedo",
+      "url": "index.html#about",
+      "keywords": ["sobre mi", "about", "perfil", "desarrollador", "experiencia", "master", "oviedo"]
+    },
+    {
+      "id": "home-projects",
+      "title": "Proyectos Destacados",
+      "category": "Página",
+      "content": "Plataforma E-Commerce Gestor Tareas Colaborativo Dashboard Analítico",
+      "url": "index.html#featured-projects",
+      "keywords": ["proyectos", "projects", "portfolio", "ecommerce", "dashboard", "tareas"]
+    },
+    {
+      "id": "home-skills",
+      "title": "Tecnologías y Herramientas",
+      "category": "Página",
+      "content": "Angular React NET Core C# JavaScript TypeScript SQL Server Oracle Git Docker Node.js",
+      "url": "index.html#skills",
+      "keywords": ["tecnologías", "skills", "habilidades", "angular", "react", "javascript", "typescript", "net", "docker"]
+    },
+    {
+      "id": "profile-education",
+      "title": "Formación Académica",
+      "category": "Perfil",
+      "content": "Máster en Ingeniería Web Universidad de Oviedo Ingeniería Sistemas Informática",
+      "url": "sobre-mi.html#formacion",
+      "keywords": ["formación", "educación", "master", "ingeniería", "web", "universidad", "oviedo"]
+    },
+    {
+      "id": "profile-master",
+      "title": "Máster en Ingeniería Web",
+      "category": "Educación",
+      "content": "Máster Ingeniería Web Universidad Oviedo 2025 Especialización tecnologías web modernas frontend backend arquitectura aplicaciones usabilidad accesibilidad SEO",
+      "url": "sobre-mi.html#formacion",
+      "keywords": ["master", "ingeniería web", "oviedo", "frontend", "backend", "arquitectura", "seo", "accesibilidad"]
+    },
+    {
+      "id": "profile-experience",
+      "title": "Experiencia Profesional",
+      "category": "Perfil",
+      "content": "Experiencia profesional empresas proyectos habilidades técnicas profesionales entornos colaborativos",
+      "url": "sobre-mi.html#experiencia",
+      "keywords": ["experiencia", "profesional", "trabajo", "empresas", "proyectos"]
+    },
+    {
+      "id": "exp-senior",
+      "title": "Ingeniero de Desarrollo Senior",
+      "category": "Experiencia",
+      "content": "Ingeniero Desarrollo Senior Tech Solutions 2022 Actualidad diseño desarrollo aplicaciones web empresariales arquitectura microservicios .NET Core Angular Oracle SQL Server Azure DevOps",
+      "url": "sobre-mi.html#experiencia",
+      "keywords": ["senior", "ingeniero", "tech solutions", "net core", "angular", "microservicios", "azure", "oracle"]
+    },
+    {
+      "id": "exp-fullstack",
+      "title": "Desarrollador Full Stack",
+      "category": "Experiencia",
+      "content": "Desarrollador Full Stack Digital Innovation Labs 2019 2021 desarrollo aplicaciones web frontend backend Angular React ASP.NET Core transformación digital",
+      "url": "sobre-mi.html#experiencia",
+      "keywords": ["fullstack", "full stack", "desarrollador", "angular", "react", "asp.net", "digital innovation"]
+    },
+    {
+      "id": "exp-junior",
+      "title": "Desarrollador Junior",
+      "category": "Experiencia",
+      "content": "Desarrollador Junior Software Consulting Group 2017 2019 desarrollo aplicaciones web escritorio buenas prácticas programación metodologías ágiles",
+      "url": "sobre-mi.html#experiencia",
+      "keywords": ["junior", "desarrollador", "consulting", "programación", "ágiles", "scrum"]
+    },
+    {
+      "id": "profile-skills",
+      "title": "Habilidades Técnicas",
+      "category": "Perfil",
+      "content": "Habilidades técnicas frontend backend bases datos devops",
+      "url": "sobre-mi.html#skills",
+      "keywords": ["habilidades", "skills", "técnicas", "competencias"]
+    },
+    {
+      "id": "skills-frontend",
+      "title": "Desarrollo Frontend",
+      "category": "Habilidades",
+      "content": "Angular React TypeScript JavaScript HTML5 CSS3 Bootstrap Tailwind responsive design",
+      "url": "sobre-mi.html#skills",
+      "keywords": ["frontend", "angular", "react", "typescript", "javascript", "html", "css", "responsive"]
+    },
+    {
+      "id": "skills-backend",
+      "title": "Desarrollo Backend",
+      "category": "Habilidades",
+      "content": "C# .NET Core ASP.NET Core Web API REST Entity Framework Node.js Express",
+      "url": "sobre-mi.html#skills",
+      "keywords": ["backend", "c#", "net core", "asp.net", "api", "rest", "node", "express"]
+    },
+    {
+      "id": "skills-database",
+      "title": "Bases de Datos",
+      "category": "Habilidades",
+      "content": "Oracle SQL Server MySQL PostgreSQL MongoDB PL/SQL T-SQL Entity Framework Dapper",
+      "url": "sobre-mi.html#skills",
+      "keywords": ["bases de datos", "database", "oracle", "sql server", "mysql", "postgresql", "mongodb"]
+    },
+    {
+      "id": "skills-devops",
+      "title": "DevOps y Herramientas",
+      "category": "Habilidades",
+      "content": "Git Azure DevOps Docker Kubernetes Jenkins CI/CD Jira Confluence Agile Scrum",
+      "url": "sobre-mi.html#skills",
+      "keywords": ["devops", "git", "azure", "docker", "kubernetes", "jenkins", "cicd", "agile", "scrum"]
+    },
+    {
+      "id": "profile-certifications",
+      "title": "Certificaciones",
+      "category": "Perfil",
+      "content": "Microsoft Certified Azure Developer Oracle Certified Professional Java Scrum Master Certified",
+      "url": "sobre-mi.html#certificaciones",
+      "keywords": ["certificaciones", "certifications", "microsoft", "azure", "oracle", "scrum"]
+    },
+    {
+      "id": "profile-references",
+      "title": "Referencias Profesionales",
+      "category": "Perfil",
+      "content": "Referencias profesionales personas trabajado desempeño profesional",
+      "url": "sobre-mi.html#referencias",
+      "keywords": ["referencias", "testimonios", "recomendaciones"]
+    },
+    {
+      "id": "project-blog",
+      "title": "Blog Personal",
+      "category": "Proyecto",
+      "content": "Blog personal responsive HTML5 CSS3 diseño adaptativo navegación semántico accesible SEO",
+      "url": "proyectos.html#blog",
+      "keywords": ["blog", "html", "css", "responsive", "seo", "accesible"]
+    },
+    {
+      "id": "project-processor",
+      "title": "Procesador Estadístico",
+      "category": "Proyecto",
+      "content": "Procesador estadístico JavaScript TypeScript WebAssembly análisis documentos benchmarking alto rendimiento",
+      "url": "proyectos.html#processor",
+      "keywords": ["procesador", "estadístico", "javascript", "typescript", "webassembly", "análisis"]
+    },
+    {
+      "id": "project-validator",
+      "title": "Validador y Extractor",
+      "category": "Proyecto",
+      "content": "Validador extractor documentos CDA XML validación estructura extracción datos clínicos",
+      "url": "proyectos.html#validator",
+      "keywords": ["validador", "extractor", "xml", "cda", "validación", "datos"]
+    },
+    {
+      "id": "project-analyzer",
+      "title": "Analizador Semántico",
+      "category": "Proyecto",
+      "content": "Analizador semántico TypeScript análisis documentos transformación JSON terminologías mapeo",
+      "url": "proyectos.html#analyzer",
+      "keywords": ["analizador", "semántico", "typescript", "json", "transformación"]
+    },
+    {
+      "id": "interests-programming",
+      "title": "Programación Personal",
+      "category": "Intereses",
+      "content": "Programación personal proyectos tecnologías open source lenguajes frameworks C# .NET TypeScript Angular PL/SQL",
+      "url": "aficiones.html#programming",
+      "keywords": ["programación", "personal", "proyectos", "open source", "hobbies"]
+    },
+    {
+      "id": "interests-hiking",
+      "title": "Senderismo y Naturaleza",
+      "category": "Intereses",
+      "content": "Senderismo naturaleza ejercicio paisajes Chicamocha Flora Bajos Pan Azúcar Colinas Ruta Cares Picos Europa",
+      "url": "aficiones.html#hiking",
+      "keywords": ["senderismo", "naturaleza", "hiking", "montaña", "cares", "picos europa"]
+    },
+    {
+      "id": "interests-music",
+      "title": "Música",
+      "category": "Intereses",
+      "content": "Música rock jazz electrónica bandas sonoras géneros artistas",
+      "url": "aficiones.html#music",
+      "keywords": ["música", "music", "rock", "jazz", "electrónica"]
+    },
+    {
+      "id": "interests-reading",
+      "title": "Lectura",
+      "category": "Intereses",
+      "content": "Lectura literatura técnica ficción arquitectura software metodologías ágiles desarrollo personal ciencia ficción suspense Clean Code Pragmatic Programmer Sapiens",
+      "url": "aficiones.html#reading",
+      "keywords": ["lectura", "libros", "clean code", "pragmatic", "sapiens", "ficción"]
+    },
+    {
+      "id": "interests-learning",
+      "title": "Aprendizaje Continuo",
+      "category": "Intereses",
+      "content": "Aprendizaje continuo tecnologías cursos online webinars tendencias desarrollo web",
+      "url": "aficiones.html#learning",
+      "keywords": ["aprendizaje", "cursos", "formación", "webinars", "actualización"]
+    }
+  ],
+  "en": [
+    {
+      "id": "home-hero",
+      "title": "Home",
+      "category": "Page",
+      "content": "Hi I'm John Albeiro Arevalo Full Stack Web Developer specialized in .NET Angular databases",
+      "url": "index.html",
+      "keywords": ["home", "developer", "full stack", "angular", "net", "databases"]
+    },
+    {
+      "id": "home-about",
+      "title": "About Me - Summary",
+      "category": "Page",
+      "content": "Web developer experience designing developing enterprise applications Master Web Engineering University Oviedo",
+      "url": "index.html#about",
+      "keywords": ["about me", "profile", "developer", "experience", "master", "oviedo"]
+    },
+    {
+      "id": "home-projects",
+      "title": "Featured Projects",
+      "category": "Page",
+      "content": "E-Commerce Platform Collaborative Task Manager Analytics Dashboard",
+      "url": "index.html#featured-projects",
+      "keywords": ["projects", "portfolio", "ecommerce", "dashboard", "tasks"]
+    },
+    {
+      "id": "home-skills",
+      "title": "Technologies and Tools",
+      "category": "Page",
+      "content": "Angular React NET Core C# JavaScript TypeScript SQL Server Oracle Git Docker Node.js",
+      "url": "index.html#skills",
+      "keywords": ["technologies", "skills", "angular", "react", "javascript", "typescript", "net", "docker"]
+    },
+    {
+      "id": "profile-education",
+      "title": "Academic Background",
+      "category": "Profile",
+      "content": "Master Web Engineering University Oviedo Systems Engineering Computer Science",
+      "url": "sobre-mi.html#formacion",
+      "keywords": ["education", "master", "engineering", "web", "university", "oviedo"]
+    },
+    {
+      "id": "profile-master",
+      "title": "Master's in Web Engineering",
+      "category": "Education",
+      "content": "Master Web Engineering University Oviedo 2025 Specialization modern web technologies frontend backend architecture usability accessibility SEO",
+      "url": "sobre-mi.html#formacion",
+      "keywords": ["master", "web engineering", "oviedo", "frontend", "backend", "architecture", "seo", "accessibility"]
+    },
+    {
+      "id": "profile-experience",
+      "title": "Professional Experience",
+      "category": "Profile",
+      "content": "Professional experience companies projects technical professional skills collaborative environments",
+      "url": "sobre-mi.html#experiencia",
+      "keywords": ["experience", "professional", "work", "companies", "projects"]
+    },
+    {
+      "id": "exp-senior",
+      "title": "Senior Development Engineer",
+      "category": "Experience",
+      "content": "Senior Development Engineer Tech Solutions 2022 Present design development enterprise web applications microservices architecture .NET Core Angular Oracle SQL Server Azure DevOps",
+      "url": "sobre-mi.html#experiencia",
+      "keywords": ["senior", "engineer", "tech solutions", "net core", "angular", "microservices", "azure", "oracle"]
+    },
+    {
+      "id": "exp-fullstack",
+      "title": "Full Stack Developer",
+      "category": "Experience",
+      "content": "Full Stack Developer Digital Innovation Labs 2019 2021 web applications development frontend backend Angular React ASP.NET Core digital transformation",
+      "url": "sobre-mi.html#experiencia",
+      "keywords": ["fullstack", "full stack", "developer", "angular", "react", "asp.net", "digital innovation"]
+    },
+    {
+      "id": "exp-junior",
+      "title": "Junior Developer",
+      "category": "Experience",
+      "content": "Junior Developer Software Consulting Group 2017 2019 web desktop applications development best practices programming agile methodologies",
+      "url": "sobre-mi.html#experiencia",
+      "keywords": ["junior", "developer", "consulting", "programming", "agile", "scrum"]
+    },
+    {
+      "id": "profile-skills",
+      "title": "Technical Skills",
+      "category": "Profile",
+      "content": "Technical skills frontend backend databases devops",
+      "url": "sobre-mi.html#skills",
+      "keywords": ["skills", "technical", "competencies"]
+    },
+    {
+      "id": "skills-frontend",
+      "title": "Frontend Development",
+      "category": "Skills",
+      "content": "Angular React TypeScript JavaScript HTML5 CSS3 Bootstrap Tailwind responsive design",
+      "url": "sobre-mi.html#skills",
+      "keywords": ["frontend", "angular", "react", "typescript", "javascript", "html", "css", "responsive"]
+    },
+    {
+      "id": "skills-backend",
+      "title": "Backend Development",
+      "category": "Skills",
+      "content": "C# .NET Core ASP.NET Core Web API REST Entity Framework Node.js Express",
+      "url": "sobre-mi.html#skills",
+      "keywords": ["backend", "c#", "net core", "asp.net", "api", "rest", "node", "express"]
+    },
+    {
+      "id": "skills-database",
+      "title": "Databases",
+      "category": "Skills",
+      "content": "Oracle SQL Server MySQL PostgreSQL MongoDB PL/SQL T-SQL Entity Framework Dapper",
+      "url": "sobre-mi.html#skills",
+      "keywords": ["databases", "oracle", "sql server", "mysql", "postgresql", "mongodb"]
+    },
+    {
+      "id": "skills-devops",
+      "title": "DevOps & Tools",
+      "category": "Skills",
+      "content": "Git Azure DevOps Docker Kubernetes Jenkins CI/CD Jira Confluence Agile Scrum",
+      "url": "sobre-mi.html#skills",
+      "keywords": ["devops", "git", "azure", "docker", "kubernetes", "jenkins", "cicd", "agile", "scrum"]
+    },
+    {
+      "id": "profile-certifications",
+      "title": "Certifications",
+      "category": "Profile",
+      "content": "Microsoft Certified Azure Developer Oracle Certified Professional Java Scrum Master Certified",
+      "url": "sobre-mi.html#certificaciones",
+      "keywords": ["certifications", "microsoft", "azure", "oracle", "scrum"]
+    },
+    {
+      "id": "profile-references",
+      "title": "Professional References",
+      "category": "Profile",
+      "content": "Professional references people worked professional performance",
+      "url": "sobre-mi.html#referencias",
+      "keywords": ["references", "testimonials", "recommendations"]
+    },
+    {
+      "id": "project-blog",
+      "title": "Personal Blog",
+      "category": "Project",
+      "content": "Personal blog responsive HTML5 CSS3 adaptive design navigation semantic accessible SEO",
+      "url": "proyectos.html#blog",
+      "keywords": ["blog", "html", "css", "responsive", "seo", "accessible"]
+    },
+    {
+      "id": "project-processor",
+      "title": "Statistical Processor",
+      "category": "Project",
+      "content": "Statistical processor JavaScript TypeScript WebAssembly document analysis benchmarking high performance",
+      "url": "proyectos.html#processor",
+      "keywords": ["processor", "statistical", "javascript", "typescript", "webassembly", "analysis"]
+    },
+    {
+      "id": "project-validator",
+      "title": "Validator and Extractor",
+      "category": "Project",
+      "content": "Validator extractor CDA documents XML validation structure extraction clinical data",
+      "url": "proyectos.html#validator",
+      "keywords": ["validator", "extractor", "xml", "cda", "validation", "data"]
+    },
+    {
+      "id": "project-analyzer",
+      "title": "Semantic Analyzer",
+      "category": "Project",
+      "content": "Semantic analyzer TypeScript document analysis JSON transformation terminologies mapping",
+      "url": "proyectos.html#analyzer",
+      "keywords": ["analyzer", "semantic", "typescript", "json", "transformation"]
+    },
+    {
+      "id": "interests-programming",
+      "title": "Personal Programming",
+      "category": "Interests",
+      "content": "Personal programming projects technologies open source languages frameworks C# .NET TypeScript Angular PL/SQL",
+      "url": "aficiones.html#programming",
+      "keywords": ["programming", "personal", "projects", "open source", "hobbies"]
+    },
+    {
+      "id": "interests-hiking",
+      "title": "Hiking and Nature",
+      "category": "Interests",
+      "content": "Hiking nature exercise landscapes Chicamocha Flora Bajos Pan Sugar Colinas Cares Route Picos Europa",
+      "url": "aficiones.html#hiking",
+      "keywords": ["hiking", "nature", "mountain", "cares", "picos europa"]
+    },
+    {
+      "id": "interests-music",
+      "title": "Music",
+      "category": "Interests",
+      "content": "Music rock jazz electronic soundtracks genres artists",
+      "url": "aficiones.html#music",
+      "keywords": ["music", "rock", "jazz", "electronic"]
+    },
+    {
+      "id": "interests-reading",
+      "title": "Reading",
+      "category": "Interests",
+      "content": "Reading technical literature fiction software architecture agile methodologies personal development science fiction suspense Clean Code Pragmatic Programmer Sapiens",
+      "url": "aficiones.html#reading",
+      "keywords": ["reading", "books", "clean code", "pragmatic", "sapiens", "fiction"]
+    },
+    {
+      "id": "interests-learning",
+      "title": "Continuous Learning",
+      "category": "Interests",
+      "content": "Continuous learning technologies online courses webinars trends web development",
+      "url": "aficiones.html#learning",
+      "keywords": ["learning", "courses", "training", "webinars", "update"]
+    }
+  ]
+}
